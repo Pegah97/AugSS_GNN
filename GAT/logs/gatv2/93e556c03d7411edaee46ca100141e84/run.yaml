@@ -1,0 +1,15 @@
+comment: ''
+commit: unknown
+commit_message: ''
+is_dirty: false
+load_run: null
+name: gatv2
+notes: ''
+python_file: C:\Users\mehdi\PycharmProjects\graph_embeddings_pro\test\gat2cora.py
+repo_remotes: []
+start_step: 0
+tags:
+- gatv2
+trial_date: '2022-09-26'
+trial_time: '11:54:02'
+uuid: 93e556c03d7411edaee46ca100141e84
